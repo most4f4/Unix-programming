@@ -38,7 +38,6 @@ Ensure you're on a Unix/Linux system with `g++` and `make` installed.
 
 ```bash
 make          # Builds the project normally
-make debugbuild  # Builds with DEBUG macro enabled
 ```
 
 ### 🧹 Clean build artifacts:
