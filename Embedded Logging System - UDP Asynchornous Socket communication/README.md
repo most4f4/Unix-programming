@@ -96,7 +96,7 @@ You can change the active level live from the server UI.
 
 ## 🧪 Screenshots (Optional)
 
-![Sending Log Filter Request to Logger](screenshots/Picture1.png)
+![Sending Log Filter Request to Logger](screenshots/Picture.png)
 ![Dumping Log File with Critical Log Filter](screenshots/Picture2.png)
 ![Exploring Logs being Filtered on Client side](screenshots/Picture3.png)
 
