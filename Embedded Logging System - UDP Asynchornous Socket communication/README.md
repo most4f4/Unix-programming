@@ -96,8 +96,6 @@ You can change the active level live from the server UI.
 
 ## 🧪 Screenshots (Optional)
 
-If you'd like to add screenshots to your GitHub repo, create a `screenshots` folder and use this syntax in Markdown:
-
 ```md
 ![Sending Log Filter Request to Logger](screenshots/Picture1.png)
 ![Dumping Log File with Critical Log Filter](screenshots/Picture2.png)
@@ -116,4 +114,14 @@ If you'd like to add screenshots to your GitHub repo, create a `screenshots` fol
 
 ## 📄 License
 
-MIT License — feel free to use, modify, or share.
+- This program is for educational purposes and is free to use and modify.
+  MIT License — feel free to use, modify, or share.
+
+## Video Peresentation
+
+[Youtube](https://youtu.be/zC8kLWvraT4)
+
+## Acknowledgments
+
+- Developed by: Mostafa Hasanalipourshahrabadi
+- Tested on a Linux VM.
