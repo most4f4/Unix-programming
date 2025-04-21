@@ -93,7 +93,7 @@ You can change the active level live from the server UI.
 
 ---
 
-## 🧪 Screenshots (Optional)
+## 🧪 Screenshots
 
 ![Sending Log Filter Request to Logger](screenshots/Picture.png)
 ![Dumping Log File with Critical Log Filter](screenshots/Picture2.png)
