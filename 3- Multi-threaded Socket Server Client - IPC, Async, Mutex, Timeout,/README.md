@@ -145,6 +145,7 @@ make
 ```
 
 ![Compilation Success](screenshots/make_build.png)
+
 _Successful compilation showing all executables created_
 
 ### Execution Workflow
@@ -168,6 +169,7 @@ Waiting for incoming connection...
 ```
 
 ![Server Startup](screenshots/server_startup.png)
+
 _Server initialization and listening on specified port_
 
 #### 2. Start Multiple Clients
@@ -194,6 +196,7 @@ The script executes:
 ```
 
 ![Clients Starting](screenshots/clients_startup.png)
+
 _All three clients connecting to server simultaneously_
 
 **Method 2: Manual Client Startup**
@@ -236,6 +239,7 @@ It's rung down the curtain and joined the choir invisible. This is an ex-parrot!
 ```
 
 ![Message Exchange](screenshots/message_flow.png)
+
 _Real-time message processing from multiple clients_
 
 #### 4. Graceful Shutdown
@@ -257,6 +261,7 @@ client(12345): stopping...
 ```
 
 ![Graceful Shutdown](screenshots/graceful_shutdown.png)
+
 _Clean shutdown process with thread cleanup_
 
 #### 5. Force Client Termination
