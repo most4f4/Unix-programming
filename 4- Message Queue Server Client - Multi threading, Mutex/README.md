@@ -4,9 +4,6 @@
 
 This project implements a **multi-threaded message queue communication system** using **System V Message Queues**, **POSIX threads (pthreads)**, and **mutex synchronization**. The system demonstrates inter-process communication (IPC) where a central server facilitates message exchange between three independent client processes.
 
-![System Architecture](screenshots/img3.png)
-_System architecture showing server-client communication flow_
-
 ## Key Features
 
 - **Multi-threaded Architecture**: Each client runs receiving threads concurrently with main sending logic
@@ -99,6 +96,9 @@ typedef struct mymsg {
 ```bash
 make
 ```
+
+![Compilation and Server Start](screenshots/img-0.png)
+_Successful compilation + Server initialization and waiting for client connections_
 
 This creates executables: `server`, `client1`, `client2`, `client3`
 
