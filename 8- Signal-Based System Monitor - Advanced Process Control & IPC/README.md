@@ -4,9 +4,6 @@
 
 This project implements a **signal-driven system monitoring architecture** using **Unix signals for inter-process communication**, **fork/exec process management**, and **real-time network interface monitoring**. The system demonstrates advanced **process coordination**, **signal handling**, **file I/O operations**, and **parent-child process synchronization** in a Unix/Linux environment.
 
-![System Architecture](screenshots/system_overview.png)
-_Signal-based process control architecture with parent-child coordination_
-
 ## Key Features
 
 - **Signal-Based IPC**: SIGUSR1, SIGUSR2 for process start/stop control
