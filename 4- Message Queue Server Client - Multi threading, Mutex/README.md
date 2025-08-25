@@ -98,7 +98,8 @@ make
 ```
 
 ![Compilation and Server Start](screenshots/img-0.png)
-_Successful compilation + Server initialization and waiting for client connections_
+
+_Successful compilation_
 
 This creates executables: `server`, `client1`, `client2`, `client3`
 
@@ -109,7 +110,8 @@ This creates executables: `server`, `client1`, `client2`, `client3`
 ```
 
 ![Compilation and Server Start](screenshots/img1.png)
-_Successful compilation + Server initialization and waiting for client connections_
+
+_Server initialization and waiting for client connections_
 
 ### 3. Start All Clients
 
