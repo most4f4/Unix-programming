@@ -101,6 +101,7 @@ make
 ```
 
 ![Compilation Output](screenshots/make_build.png)
+
 _Successful compilation of server and client_
 
 ### Execution Workflow
@@ -125,6 +126,7 @@ The server will:
 - Block on `accept()` until client connects
 
 ![Server Waiting](screenshots/server_waiting.png)
+
 _Server initialized and waiting for client connection_
 
 #### Step 2: Start the Client (New Terminal)
@@ -209,6 +211,7 @@ make
 ```
 
 ![Compilation Output](screenshots/make_build.png)
+
 _Successful compilation of server and client_
 
 ### Execution Workflow
@@ -233,6 +236,7 @@ The server will:
 - Block on `accept()` until client connects
 
 ![Server Waiting](screenshots/server_waiting.png)
+
 _Server initialized and waiting for client connection_
 
 #### Step 2: Start the Client (New Terminal)
@@ -264,6 +268,7 @@ This client is quitting
 ```
 
 ![Full Interaction](screenshots/full_interaction.png)
+
 _Complete client-server interaction showing all commands_
 
 ### Communication Sequence Analysis
@@ -416,6 +421,7 @@ ls: cannot access '/tmp/lab6': No such file or directory
 ```
 
 ![Socket File Management](screenshots/socket_file_lifecycle.png)
+
 _Socket file creation and cleanup lifecycle_
 
 ## Troubleshooting
