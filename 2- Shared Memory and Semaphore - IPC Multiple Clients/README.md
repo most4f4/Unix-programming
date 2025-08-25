@@ -148,6 +148,7 @@ make
 ```
 
 ![Compilation Output](screenshots/img1.png)
+
 _Successful compilation of all client executables_
 
 ### Execution
