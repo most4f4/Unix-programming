@@ -172,9 +172,11 @@ echo "All clients finished"
 ```
 
 ![Script Execution](screenshots/img2.png)
+
 _Synchronized startup of all three clients_
 
 ![Script Execution](screenshots/img3.png)
+
 _All three clients finished their tasks_
 
 ## Communication Flow Analysis
