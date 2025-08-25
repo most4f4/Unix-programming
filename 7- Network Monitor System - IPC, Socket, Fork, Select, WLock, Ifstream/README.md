@@ -195,6 +195,7 @@ make clean
 ```
 
 ![Compilation Output](screenshots/make_build.png)
+
 _Successful compilation of network monitor components_
 
 ### Execution Workflow
@@ -214,6 +215,7 @@ Interface number 2: lo
 ```
 
 ![Server Startup](screenshots/server_startup.png)
+
 _Network monitor server initialization and interface selection_
 
 #### Step 2: Monitor Output
@@ -231,6 +233,7 @@ tx_bytes:1048576 tx_dropped:0 tx_errors:0 tx_packets:4096
 ```
 
 ![Live Monitoring](screenshots/live_monitoring.png)
+
 _Real-time interface statistics being displayed_
 
 #### Step 3: Test Interface Recovery
@@ -249,6 +252,7 @@ sudo ip link set ens33 down
 ```
 
 ![Interface Recovery](screenshots/interface_recovery.png)
+
 _Automatic interface recovery demonstration_
 
 #### Step 4: Graceful Shutdown
@@ -263,6 +267,7 @@ Server received CTRL-C Signal - shutting down
 ```
 
 ![Graceful Shutdown](screenshots/graceful_shutdown.png)
+
 _Clean shutdown with process cleanup_
 
 ## Advanced Features Deep Dive
@@ -432,6 +437,7 @@ make debug
 ```
 
 ![Debug Output](screenshots/debug_mode.png)
+
 _Comprehensive debug logging showing IPC communication_
 
 ### Common Issues and Solutions
